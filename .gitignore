@@ -1,0 +1,13 @@
+# Local secrets and runtime state
+config.php
+data/*.json
+data/files/*
+!data/.htaccess
+!data/files/.htaccess
+!data/files/.gitkeep
+
+# Local editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+*.log

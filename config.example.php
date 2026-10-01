@@ -1,0 +1,6 @@
+<?php
+declare(strict_types=1);
+
+const CHAT_USERNAME = 'labuser';
+const CHAT_PASSWORD_HASH = 'REPLACE_WITH_PASSWORD_HASH';
+const CHAT_ENCRYPTION_KEY = 'REPLACE_WITH_BASE64_32_BYTE_KEY';
